@@ -21,4 +21,4 @@
 
 **运行效果展示:**
 
-![image](https://github.com/iowqi/PowerRuneSimulator/tree/main/Images/Demo.gif)
+![image](Images\Demo.gif)
