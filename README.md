@@ -21,4 +21,12 @@
 
 **运行效果展示:**
 
-![image](Images\Demo.gif)
+![image](.\Images\Demo.gif)
+
+![image](.\Images\DemoViewClose.png)
+
+![image](.\Images\DemoViewAbove.png)
+
+场景中额外提供了一块8x6的标定板以供录制视频使用:
+
+![image](.\Images\Chessboard.png)
